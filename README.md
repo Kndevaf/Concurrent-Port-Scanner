@@ -78,7 +78,7 @@ Scan complete.
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 * Each port scan runs in its own **goroutine**
 * `net.DialTimeout` attempts a TCP connection
